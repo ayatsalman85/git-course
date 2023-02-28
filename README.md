@@ -9,8 +9,8 @@ forayat-website
 ### welcome
 
 1.fruits
-  *banana
-  *mango
+*banana
+*mango
 2.vegetables
   -tomato
   -cocumber
