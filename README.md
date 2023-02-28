@@ -1,3 +1,4 @@
 # git-course
 forayat-website
-#2 notes project
+
+#2 notes-project
